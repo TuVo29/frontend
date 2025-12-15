@@ -221,6 +221,7 @@ export default function Dashboard({ orders, dishes }) {
       </style>
 
       <h1>📊 Bảng điều khiển</h1>
+  <h1>Chiều thứ 2- ca3</h1>
 
       <div className="stats-grid">
         <div className="stat-card">
